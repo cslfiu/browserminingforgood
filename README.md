@@ -17,7 +17,3 @@ The PublicWWW dataset consists of two domain lists and two keyword lists.
 ### Reproducibility of PublicWW Dataset:
 
 In order to reproduce the dataset and experiments, one can either use the domain lists we released or can download the keyword lists and then make a query on [PublicWWW's website](https://publicwww.com/). Finally, we also release the crawler we used to download the samples.
-
-## 2. Major Instances
-
-This folder (Major_instances_links.xlsx) contains the major cryptojacking attack instances that we used in the paper.
