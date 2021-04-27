@@ -1,5 +1,7 @@
 # In-Browser Cryptomining for Good: An Untold Story
 
+This repository contains the dataset and relevant information for the "In-Browser Cryptomining for Good: An Untold Story" paper.
+
 ## Dataset
 We prepared several keyword lists to be able to find cryptojacking samples in the wild and create a dataset that covers the list of domains that have in-browser cryptomining script(s).
 
@@ -12,7 +14,7 @@ We present 4 different datasets for this paper. All the datasets can be found wi
 
 #### Keywords
 
-In order to find in-browser mining samples in the wiild, we firstly needed to identify the keywords using by the service providers. With these keywords, we made static search via several web tools. The main resource for these keywords was, known blacklists and other keyword lists released by other studies in the literature.
+In order to find in-browser mining samples in the wild, we firstly needed to identify the keywords using by the service providers. With these keywords, we made static search via several web tools. The main resource for these keywords was, known blacklists and other keyword lists released by other studies in the literature.
 
 
 |-> "service provider keywords.csv" (file): This file contains the needed keywords to identify the 14 known service providers uniquely. Inside the CSV file, we listed the known service providers and the major keywords we can identify during our static keyword search.
