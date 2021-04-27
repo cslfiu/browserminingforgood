@@ -33,3 +33,6 @@ In order to find in-browser mining samples in the wild, we firstly needed to ide
 ### Methodology and Reproducibility of the Dataset:
 
 In order to reproduce the dataset and experiments, one can either use the domain lists we released or can download the keyword lists and then make a query on [PublicWWW's website](https://publicwww.com/). For deeper experiments and future research, web crawlers or web spiders can be used to downloand HTTP files of the webpages.
+
+Please send an email to browserminingforgood (at) gmail (dot) com if you have any questions.
+
