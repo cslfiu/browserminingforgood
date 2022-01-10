@@ -1,6 +1,21 @@
 # In-Browser Cryptomining for Good: An Untold Story
 
-This repository contains the dataset and relevant information for the "In-Browser Cryptomining for Good: An Untold Story" paper.
+This repository contains the dataset and relevant information for the "[In-Browser Cryptomining for Good: An Untold Story](https://ieeexplore.ieee.org/abstract/document/9566204)" paper.
+
+
+------------------------------
+If you use any material above, please cite the following work for now:
+
+```
+@INPROCEEDINGS{9566204,  
+author={Tekiner, Ege and Acar, Abbas and Uluagac, A. Selcuk and Kirda, Engin and Selcuk, Ali Aydin},  
+booktitle={2021 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS)},   
+title={In-Browser Cryptomining for Good: An Untold Story},   
+year={2021}, 
+pages={20-29},  
+doi={10.1109/DAPPS52256.2021.00008}}
+```
+
 
 ## Dataset
 We prepared several keyword lists to be able to find cryptojacking samples in the wild and create a dataset that covers the list of domains that have in-browser cryptomining script(s).
