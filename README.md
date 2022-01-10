@@ -4,7 +4,7 @@ This repository contains the dataset and relevant information for the "[In-Brows
 
 
 ------------------------------
-If you use any material above, please cite the following work for now:
+If you use any material from this repository, please cite the following work:
 
 ```
 @INPROCEEDINGS{9566204,  
